@@ -6,7 +6,8 @@
 - html / css
 # Site pic
 <a href='https://www.linkpicture.com/view.php?img=LPic63dd7354423e51543096741'><img src='https://www.linkpicture.com/q/chrome-capture-2023-1-3_1.png' type='image'></a>
-<a href='https://www.linkpicture.com/view.php?img=LPic63dd7354423e51543096741'><img src='https://www.linkpicture.com/q/chrome-capture-2023-1-3-3.png' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic63dd745c8f2271747138499'><img src='https://www.linkpicture.com/q/chrome-capture-2023-1-3-1_1.png' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic63dd745c8f2271747138499'><img src='https://www.linkpicture.com/q/chrome-capture-2023-1-3-2_1.png' type='image'></a>
 <a href='https://www.linkpicture.com/view.php?img=LPic63dd7354423e51543096741'><img src='https://www.linkpicture.com/q/chrome-capture-2023-1-3-3.png' type='image'></a>
 <a href='https://www.linkpicture.com/view.php?img=LPic63dd7354423e51543096741'><img src='https://www.linkpicture.com/q/chrome-capture-2023-1-3-4.png' type='image'></a>
 <a href='https://www.linkpicture.com/view.php?img=LPic63dd7354423e51543096741'><img src='https://www.linkpicture.com/q/chrome-capture-2023-1-3-5.png' type='image'></a>
